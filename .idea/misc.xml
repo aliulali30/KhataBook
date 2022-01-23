@@ -3,11 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/muham/AndroidStudioProjects/KhataBook/app/src/main/res/layout-land/activity_main.xml" value="0.19947916666666668" />
-        <entry key="..\:/Users/muham/AndroidStudioProjects/KhataBook/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/muham/AndroidStudioProjects/KhataBook/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/muham/AndroidStudioProjects/KhataBook/app/src/main/res/layout/searchperson.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/muham/AndroidStudioProjects/KhataBook/app/src/main/res/layout/transactionlistitem.xml" value="0.22" />
+        <entry key="..\:/MC Project/app/src/main/res/drawable/applogo_background.xml" value="0.2703125" />
+        <entry key="..\:/MC Project/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
